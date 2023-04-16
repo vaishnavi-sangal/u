@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88013185622",
+    "project_id": "women-b7463",
+    "storage_bucket": "women-b7463.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88013185622:android:8390a22a5aa08c75cc91f7",
+        "android_client_info": {
+          "package_name": "com.example.w"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88013185622-26tm6fvve36ubha8127hs8aa1no9gkh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANIN_i7lMt9t-mxCYAorTSsmSl6KhBX_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88013185622-26tm6fvve36ubha8127hs8aa1no9gkh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
