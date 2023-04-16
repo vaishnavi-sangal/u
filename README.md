@@ -9,7 +9,7 @@ Many urban middle-class women face harassment when they go out to work.
 For many women Streets, bus stands, railway stations, parks, and other public places are scenes of harassment. Every day women face a systematic assault on their fundamental right to free movement and personal dignity.
 
 ## 😃 Inspiration & Motivation
-The thing that inspired me all to work for women’s empowerment was their capability to perform and deliver, they are as important as men. We as a student, boys, and part of families wanted to contribute to creating a beneficial cause of empowering women and to give them a tap on the shoulder to keep going and not give up!
+The thing that inspired me all to work for women’s empowerment was their capability to perform and deliver, they are as important as men. We as a student, and part of families wanted to contribute to creating a beneficial cause of empowering women and to give them a tap on the shoulder to keep going and not give up!
 
 It is a mobile application developed specifically for women. That lets them take a leap that they can count on someone and I made sure that “SOMEONE” will be none other but their own contacts which they can send alerts, locations, and much more.
 ## 📱 Features
@@ -26,9 +26,9 @@ And related features to women safety :)
 
 ## 👀 More Look & Feel
 
-Here's what we have developed!
+Here's what I have developed!
 
 
 <p align="center">
-  <img width="600" src="">
+  <img width="600" src="https://github.com/vaishnavi-sangal/Women-Security-App/blob/main/w1.jpg">
 </p>
