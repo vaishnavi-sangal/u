@@ -13,7 +13,7 @@ The thing that inspired me all to work for women’s empowerment was their capab
 
 It is a mobile application developed specifically for women. That lets them take a leap that they can count on someone and I made sure that “SOMEONE” will be none other but their own contacts which they can send alerts, locations, and much more.
 ## 📱 Features
-Following are the features available in Amaan:
+Following are the features :
 - **Get Home Safe**: Tracking user's location after specific time (Set by the user)
 - **Safe Shake**: Shake mobile device to send SOS alerts even if the app is closed!
 - **Helplines**: Contact nearest police stations, hospitals, fire brigade, pharmacies etc.
