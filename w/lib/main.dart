@@ -13,9 +13,20 @@ final navigatorkey = GlobalKey<ScaffoldMessengerState>();
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp();
+  await Firebase.initializeApp(
+    options: FirebaseOptions(
+      apiKey: "YOUR_API_KEY",
+      appId: "YOUR_APP_ID",
+      messagingSenderId: "YOUR_SENDER_ID",
+      projectId: "YOUR_PROJECT_ID",
+      authDomain: "YOUR_AUTH_DOMAIN",
+      databaseURL: "YOUR_DATABASE_URL",
+      storageBucket: "YOUR_STORAGE_BUCKET",
+    ),
+  );
   await MySharedPrefference.init();
   await initializeService();
+
   runApp(const MyApp());
 }
 

@@ -1,6 +1,7 @@
 name: w
 description: A new Flutter project.
 
+
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -37,7 +38,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   firebase_core: ^1.23.0
-  google_fonts: ^3.0.1
+  google_fonts: ^4.0.4
   carousel_slider: ^4.1.1
   webview_flutter: ^3.0.4
   flutter_phone_direct_caller: ^2.1.1

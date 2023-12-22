@@ -8,11 +8,10 @@ import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 
 Future<void> initializeService() async {
   final service = FlutterBackgroundService();
-  AndroidNotificationChannel channel = AndroidNotificationChannel(
-    "script academy",
-    "foregrounf service",
-    "used for imp notifcation",
-    importance: Importance.high,
+  AndroidNotificationChannel channel = const AndroidNotificationChannel(
+    'high_importance_channel',
+    "High Importance Notifications",
+    "This channel is used for important notifications",
   );
   final FlutterLocalNotificationsPlugin flutterLocalNotificationsPlugin =
       FlutterLocalNotificationsPlugin();
@@ -61,7 +60,7 @@ void onStart(ServiceInstance service) async {
           888,
           "women safety app",
           "shake feature enable",
-          NotificationDetails(
+          const NotificationDetails(
               android: AndroidNotificationDetails(
             "script academy",
             "foregrounf service",
